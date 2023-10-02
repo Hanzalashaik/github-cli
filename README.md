@@ -36,6 +36,6 @@ npm start
 ```
 
 The CLI will ask you to give github username. Enter the username you want to get the details of.
-![Image](https://github.com/Hanzalashaik/github-cli/images/screenshoot.png "Image")
+![Image](https://github.com/Hanzalashaik/github-cli/blob/main/images/screenshoot.png "Image")
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
